@@ -3,9 +3,10 @@ import f from './fonts';
 
 const options = [
   {
-    word: 'ENDLESS',
-    color: '#ffffff',
-    fill: '#000000',
+    word: 'BLOCK',
+    //color: '#0F1820',
+    color: '#15212b',
+    fill: '#0F1820',
     geometry: new THREE.TorusKnotGeometry(9, 3, 768, 3, 4, 3),
     position: {
       texture: [-0.965, -0.4, 0],
@@ -45,9 +46,9 @@ const options = [
   },
 
   {
-    word: 'TWISTED',
+    word: 'BLOCK',
     color: '#ffffff',
-    fill: '#d8345f',
+    fill: '#0AC18E',
     geometry: new THREE.BoxGeometry(100, 10, 10, 64, 64, 64),
     position: {
       texture: [-0.945, -0.5, 0],
