@@ -3,7 +3,7 @@ import f from './fonts';
 
 const options = [
   {
-    word: 'BLOCK',
+    word: '|  | O|   |    |',
     //color: '#0F1820',
     color: '#15212b',
     fill: '#0F1820',
@@ -12,7 +12,7 @@ const options = [
       texture: [-0.965, -0.4, 0],
       mesh: [0, 0, 0]
     },
-    scale: [0.008, 0.04, 1],
+    scale: [0.008, 10.04, 1],
     shaders: {
       vertex: shaders.vertex.demo1,
       fragment: shaders.fragment.demo1
