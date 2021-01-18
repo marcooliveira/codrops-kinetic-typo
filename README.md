@@ -1,5 +1,7 @@
 # Kinetic typography with Three.js
 
+Originally forked from https://github.com/marioecg/codrops-kinetic-typo.
+
 *Discover how to use Three.js to render kinetic typography.*
 
 ![Image Title](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2020/05/thumbnail.jpg)
